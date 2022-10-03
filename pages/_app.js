@@ -1,6 +1,6 @@
-import '../styles/globals.css';
-import { ApolloProvider } from '@apollo/client';
-import apolloClient from '../graphql';
+import "../styles/globals.css";
+import { ApolloProvider } from "@apollo/client";
+import apolloClient from "../graphql";
 
 function MyApp({ Component, pageProps }) {
   return (
